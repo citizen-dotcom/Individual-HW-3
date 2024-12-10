@@ -292,7 +292,7 @@ The Average class implements a method to calculate the average of the first k el
 
 ![Off-by-One Error PartF 3](partf3.png)
 
-
+![Off-by-One Error PartF 1](partf1.png)
 
 
 
