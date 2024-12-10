@@ -231,7 +231,7 @@ The Average class implements a method to calculate the average of the first k el
 5. testKLargerThanLength: Verifies behavior when k exceeds array length
 6. testSingleElement: Checks single element processing
 
-
+![JUnit Implementation](parte.png)
 
 
 
@@ -286,10 +286,11 @@ The Average class implements a method to calculate the average of the first k el
    - Critical runtime error
    - Verification: All tests pass after fix
 
+![Off-by-One Error PartF 1](partf1.png)
 
+![Off-by-One Error PartF 2](partf2.png)
 
-
-
+![Off-by-One Error PartF 3](partf3.png)
 
 
 
@@ -348,7 +349,7 @@ The Average class implements a method to calculate the average of the first k el
 | testSingleElement | Minimal array processing |
 | testZeroK | Zero input handling |
 
-
+![Code Coverage](partg.png)
 
 
 
